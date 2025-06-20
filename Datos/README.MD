@@ -7,3 +7,8 @@ Esta carpeta contiene todos los conjuntos de datos utilizados en este proyecto. 
 - **Metadatos**: Información adicional sobre los datos, como descripciones de las columnas, fuentes de los datos, y detalles de cualquier manipulación realizada. Esta información es esencial para comprender el contexto y uso de cada conjunto de datos.
 
 Cada archivo de datos debe estar bien documentado, con descripciones claras sobre su contenido, origen y cualquier procesamiento realizado. Esto facilitará la comprensión y el uso de los datos por parte de otros miembros del equipo o colaboradores.
+
+
+
+dfdjhldfjkahsdkjf
+
